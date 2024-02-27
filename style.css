@@ -1,0 +1,13 @@
+*{
+    color: #fff;
+}
+body{
+    background-color: rgb(39, 39, 39);
+    color: #fff;
+}
+.card-body{
+    background-color: rgb(18, 22, 21);
+}
+h1{
+    font-size:bold;
+}
